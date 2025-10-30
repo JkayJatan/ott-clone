@@ -1,29 +1,39 @@
-# 🎬 Netflix Clone
+# 🎬 Netflix Landing Page Clone
 
-A Netflix Clone web application built using modern web technologies.  
-This project replicates the Netflix UI and showcases how front-end skills can be applied to build a streaming platform interface.
+A **responsive Netflix landing page clone** built using **HTML, CSS (TailwindCSS)**, and **JavaScript**. This project replicates the official Netflix homepage with modern UI, and smooth visual elements.
 
 ---
 
 ## 🚀 Features
-- 🔥 Netflix-inspired UI
-- 🎥 Movie posters and banners
-- 📱 Responsive design (works on mobile, tablet, desktop)
-- 🎬 Hover effects & smooth transitions
-- 🌙 Dark theme look
+
+✅ **Modern UI/UX** – Clean layout inspired by Netflix’s official website.  
+✅ **Hero Section** – Dynamic banner with headline, subtext, and call-to-action buttons.  
+✅ **TV & Device Showcase** – Displays how Netflix works on different devices.  
+✅ **FAQ Accordion** – Collapsible sections for frequently asked questions.  
+✅ **Footer Section** – Netflix-style footer with multiple column links.  
+✅ **Animated Elements** – Smooth hover and transition effects.
 
 ---
+## Future Enhancement
+- **RESPONSIVENESS**
+- currently does not support mobile and tablet.
 
 ## 🛠️ Tech Stack
-- HTML
-- CSS
-- JavaScript
+
+- **HTML5** – Structure of the webpage  
+- **TailwindCSS** – Styling 
+- **JavaScript (optional)** – For FAQ toggles or interactivity
 
 ---
+## 📝 License
 
-## ⚙️ Installation
-Clone the repository and run locally:
+This project is for educational purposes only.
+All rights to original assets and design belong to Netflix, Inc.
+## ⚙️ Setup Instructions
+---
 
-```bash
-git clone https://github.com/jkayjatan/netflix-clone.git
-cd netflix-clone
+**Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/netflix-landing-clone.git
+
+
