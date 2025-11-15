@@ -5,7 +5,7 @@
 A **responsive Netflix landing page clone** built using **HTML, CSS (TailwindCSS)**, and **JavaScript**. This project replicates the official Netflix homepage with modern UI, and smooth visual elements.
 
 ---
-## Link- https://jkayjatan.github.io/netflix-clone/
+## Live demo of the Netflix clone is not provided due to trademark and copyright policy restrictions.
 ---
 
 ## 🚀 Features
